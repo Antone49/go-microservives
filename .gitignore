@@ -13,3 +13,10 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+go.sum
+project/db-data/*
+*/*App
+front-end/.vscode/*.log
+front-end/.DS_Store
+front-end/cmd/.DS_Store
